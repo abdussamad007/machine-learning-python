@@ -1,1 +1,1 @@
-# machine-learning-python
+60 days of learning python
